@@ -1,0 +1,55 @@
+/* This is a CSS comment */
+body {
+padding: 80px 60px;
+font-family: georgia;
+max-width: 1800px;
+margin: 0 auto; 
+font-size: 1.8em;
+}                 
+h1 {
+text-align: center;
+	color: black;
+}
+h2 {
+	margin: 20px;
+}
+p {
+	margin: 20px 0;
+}
+ul {
+	list-style-type: none; 
+}
+li {
+	font-size: 1.8em;
+	line-height: 3em; 
+}
+.lesson {
+	background-color: #228b22;
+	border-radius: 50px;
+	color: #f5deb3;
+	padding: 25px;
+	margin: 20px auto;
+}
+.concept {
+	background-color: #f5deb3;
+	padding: 6px;
+	margin: 20px;
+	border-radius: 6px;
+	color: black;
+}
+.concept-title {
+	font-size: 1.5em;
+	margin: 20px;
+	text-align: center;
+	color: black;
+}
+.concept-description {
+	font-weight: lighter;
+  font-size: 1.4em;
+	margin: 10px;
+}
+
+
+
+
+
